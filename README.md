@@ -13,39 +13,39 @@ This project provides an in-depth analysis of a dataset of billionaires to uncov
 
 ## Visualizations
 
-### 1. # Total Net Worth by Country
+### 1. Total Net Worth by Country
 - A treemap displaying the cumulative net worth of billionaires by country.
 - **Key Insight**: The United States and China dominate in total billionaire wealth.
 
-### 2. # Top 20 Countries with Most Billionaires
+### 2. Top 20 Countries with Most Billionaires
 - A bar chart showing the top 20 countries ranked by the number of billionaires.
 - **Key Insight**: The United States leads with 720 billionaires, followed by China with 610.
 
-### 3. # Top Industries with Most Billionaires
+### 3. Top Industries with Most Billionaires
 - A bar chart ranking the industries producing the highest number of billionaires.
 - **Key Insight**: Finance & Investments, Technology, and Manufacturing are the top three industries.
 
-### 4. # Visualization of the Age Distribution of Billionaires
+### 4. Visualization of the Age Distribution of Billionaires
 - A 2D line chart illustrating the age distribution of billionaires.
 - **Key Insight**: Billionaire wealth peaks between the ages of 55 and 70.
 
-### 5. # Top 10 Richest Billionaires
+### 5. Top 10 Richest Billionaires
 - A bar chart showing the top 10 billionaires by net worth.
 - **Key Insight**: Jeff Bezos, Elon Musk, and Bernard Arnault & family dominate the list.
 
-### 6. # Scatter Plot of Age vs. Net Worth
+### 6. Scatter Plot of Age vs. Net Worth
 - A scatter plot analyzing the relationship between age and net worth, categorized by industry.
 - **Key Insight**: Wealth accumulation is highest in middle age, particularly in Technology and Finance.
 
-### 7. # Top Sources of Wealth for Most Billionaires
+### 7. Top Sources of Wealth for Most Billionaires
 - A bar chart showcasing the most common sources of billionaire wealth.
 - **Key Insight**: Real Estate, Pharmaceuticals, and Investments are leading sources.
 
-### 8. # Correlation Heatmap: Age, Rank, and Net Worth
+### 8. Correlation Heatmap: Age, Rank, and Net Worth
 - A heatmap visualizing the correlation between Age, Rank, and Net Worth.
 - **Key Insight**: Net Worth and Rank have a strong negative correlation, while Age shows minimal influence.
 
-### 9. # Correlation Heatmap: Country, Source, and Industry
+### 9. Correlation Heatmap: Country, Source, and Industry
 - A heatmap showing the correlation between Country, Source, and Industry.
 - **Key Insight**: Weak correlations suggest diverse distributions of wealth sources and industries across countries.
 
